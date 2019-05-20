@@ -10,8 +10,11 @@ Overview
 ## Description
 
 BindsnetはPytorchを元にして作られたSNN用機械学習ライブラリである。
+
 Bindsnetに関する論文「BindsNET: A machine learning-oriented spiking neural networks library in Python」
-の著者はHananel Hazan, Daniel J. Saunders∗, Hassaan Khan, Darpan T. Sanghavi, Hava T.Siegelmann, and Robert Kozma
+の著者は Hananel Hazan, Daniel J. Saunders∗, Hassaan Khan, Darpan T. Sanghavi, Hava T.Siegelmann, and Robert Kozma
+
+SNNは通常のANNに比べてニューロンの計算モデルが全く異るため、chainerやTensorFlowを活用して記述するのは難易度が高かったが、BindsnetではニューロンモデルにLIFモデルやIFモデル、Izhikevichモデルなどが標準装備されている。Hodgkin–Huxleyモデルは現状見当たらなかった。
 
 ## Demo
 
