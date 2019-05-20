@@ -1,5 +1,5 @@
 <div align="center">
-  ![logo_bindsnet](https://user-images.githubusercontent.com/43668533/58036917-2b4faa80-7b67-11e9-909d-15cac1087898.png)
+<img src="https://user-images.githubusercontent.com/43668533/58036917-2b4faa80-7b67-11e9-909d-15cac1087898.png", alt="", title="bindsnet_logo">
 </div>
 
 Name
